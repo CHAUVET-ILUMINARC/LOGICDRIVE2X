@@ -21,7 +21,8 @@
 - Optimized the upgrade function
 - Added infrared panel control
 
-##### ⚠️ Warning: This update reduces the port fixture capacity from 40pcs down to 30pcs on drives with ST controllers. Drives with GD controllers are immune form this reduction in fixture count/port. You can find which controler is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers. 
+##### ⚠️ Warning: This update reduces the port fixture capacity from 40pcs down to 30pcs on drives with ST controllers. <br>
+          Drives with GD controllers are immune form this reduction in fixture count/port. You can find which controler is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers. 
 
 
  
