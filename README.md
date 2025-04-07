@@ -27,9 +27,6 @@
   Drives with GD controllers are immune from this reduction in fixture count/port. You can find which controller is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers.
 </div>
 
-
-
-
- 
+--- 
 [V1.11 – LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/e22260eed2113e39ece7b5eba9544171aec7b2e3/firmware/V1.11_221129.zip)
 - Released initial software version
