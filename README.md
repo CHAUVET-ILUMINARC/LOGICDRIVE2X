@@ -21,12 +21,9 @@
 - Optimized the upgrade function
 - Added infrared panel control
 
-##### ⚠️ Warning: This update reduces the port fixture capacity from 40pcs down to 30pcs on drives with ST controllers. <br>
-Drives with GD controllers are immune form this reduction in fixture count/port. You can find which controler is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers. 
-
 <span style="color:orange">⚠️</span> **Warning:** This update reduces the port fixture capacity from 40pcs down to 30pcs on drives with ST controllers. <br>
 >>Drives with GD controllers are immune form this reduction in fixture count/port. You can find which controler is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers. 
-
+&nbsp;&nbsp;&nbsp;&nbsp;Drives with GD controllers are immune form this reduction in fixture count/port. You can find which controler is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers. 
 
  
 [V1.11 – LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/e22260eed2113e39ece7b5eba9544171aec7b2e3/firmware/V1.11_221129.zip)
