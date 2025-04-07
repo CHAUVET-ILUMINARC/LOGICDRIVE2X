@@ -5,7 +5,7 @@
 [V2.11 - LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/7eb3b56d28cbc827d1dc01139779bd22e7eeb329/firmware/V2.11_241009.zip)
 - Fixed a bug
 
----
+<hr style="border-top: 1px dotted #999;">
 [V2.10 - LOGIC Drive 2x](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/e22260eed2113e39ece7b5eba9544171aec7b2e3/firmware/V2.10_240826.zip)
 - Added API command control interface
 - Added group number control
@@ -28,6 +28,6 @@
   Drives with GD controllers are immune from this reduction in fixture count/port. You can find which controller is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers.
 </div>
 
---- 
+<hr style="border-top: 1px dotted #999;">
 [V1.11 – LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/e22260eed2113e39ece7b5eba9544171aec7b2e3/firmware/V1.11_221129.zip)
 - Released initial software version
