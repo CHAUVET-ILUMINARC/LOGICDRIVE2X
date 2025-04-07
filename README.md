@@ -20,6 +20,7 @@
 - Added GD MCU version software and increased the number of searches to 100 units
 - Optimized the upgrade function
 - Added infrared panel control
+### This update reduces the port count from 40pcs down to 30pcs.
  
 [V1.11 – LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/e22260eed2113e39ece7b5eba9544171aec7b2e3/firmware/V1.11_221129.zip)
 - Released initial software version
