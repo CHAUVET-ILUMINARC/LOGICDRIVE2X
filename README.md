@@ -22,7 +22,7 @@
 - Added infrared panel control
 ### This update reduces the port count from 40pcs down to 30pcs.
 #### This update reduces the port count from 40pcs down to 30pcs.
-##### This update reduces the port count from 40pcs down to 30pcs.
+##### **Note:** This update reduces the port count from 40pcs down to 30pcs.
 ###### This update reduces the port count from 40pcs down to 30pcs.
 
  
