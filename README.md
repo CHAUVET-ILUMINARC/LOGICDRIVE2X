@@ -5,7 +5,8 @@
 
 
 [V2.12 - LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/7eb3b56d28cbc827d1dc01139779bd22e7eeb329/firmware/V2.11_241009.zip)
-- Improved Syncronization and stabilitty of Wall Controller when used with multiple Logic Drive 2x's. 
+- Improved Syncronization and stabilitty of Wall Controller when used with multiple Logic Drive 2x's.
+
 ..........................................................................................................................................................................................................................................................................
 
 
