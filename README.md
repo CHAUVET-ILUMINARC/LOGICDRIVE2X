@@ -4,7 +4,7 @@
 ..........................................................................................................................................................................................................................................................................
 
 
-[V2.14 - LOGIC Drive 2X]([https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/main/firmware/Logic_Drive%202X_CH_ST_GD_N01_11_V214_.zip](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/3bc4f40f8062bded83eef3d043859997d244b68e/firmware/V2.14_250507.zip))
+[V2.14 - LOGIC Drive 2X](https://github.com/CHAUVET-ILUMINARC/LOGICDRIVE2X/blob/3bc4f40f8062bded83eef3d043859997d244b68e/firmware/V2.14_250507.zip)
 - Improved synchronization with Wallcon when multiple LOGIC Drive2X are linked together
 
 ..........................................................................................................................................................................................................................................................................
