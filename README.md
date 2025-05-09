@@ -37,6 +37,12 @@
   This update reduces the port fixture capacity from 40pcs down to 30pcs on drives with ST controllers. <br>
   Drives with GD controllers are immune from this reduction in fixture count/port. You can find which controller is used in your drive by reviewing the webserver. It is posted in the top-right section of the webservers.
 </div>
+
+<span style="color:orange">⚠️</span> <strong>Warning:</strong>
+<div style="margin-left: 2em; display: inline;">
+  This update reduces the port fixture capacity from 40pcs down to 30pcs on drives with ST controllers. <br>
+  When updating the drives with the ST from V1.** to the 2.** platform, the initial update takes up to 10 minutes. Please ensure you have a stable power supply during this process and do not interrupt the update until it is completed.
+</div>
 ..........................................................................................................................................................................................................................................................................
 
 &nbsp;
