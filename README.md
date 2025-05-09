@@ -41,8 +41,8 @@
  <br>
 <span style="color:orange">⚠️</span> <strong>Warning:</strong>
 <div style="margin-left: 2em; display: inline;">
- 
-  When updating the drives with the ST from V1.** to the 2.** platform, the initial update takes up to 10 minutes. Please ensure you have a stable power supply during this process and do not interrupt the update until it is completed.
+ <br>
+  When updating the drives with the ST microcontroller from V1.** to the 2.** firmware platform, the process takes up to 10 minutes. Please ensure you have a stable power supply before proceeding and do not interrupt the update until it completes.
 </div>
 ..........................................................................................................................................................................................................................................................................
 
